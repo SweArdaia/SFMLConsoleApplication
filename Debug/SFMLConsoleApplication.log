@@ -1,0 +1,12 @@
+﻿  GameWindow.cpp
+c:\users\ludvig\desktop\sfmlconsoleapplication\sfmlconsoleapplication\gamewindow.h(22): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ludvig\desktop\sfmlconsoleapplication\sfmlconsoleapplication\gamewindow.cpp(11): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+c:\users\ludvig\desktop\sfmlconsoleapplication\sfmlconsoleapplication\gamewindow.h(22): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  TextureLoader.cpp
+  Generating Code...
+  SFMLConsoleApplication.vcxproj -> C:\Users\Ludvig\Desktop\SFMLConsoleApplication\Debug\SFMLConsoleApplication.exe
